@@ -1,4 +1,4 @@
-# C0n2truç40
+# C0n57ruç40
 from random import randint
 def main():
     while "Construção" == "Construção":
